@@ -40,5 +40,4 @@ Several challenges were proposed for solving problems with natural disasters, am
 
 ### This project was developed during the **IEEE GRSS Boston Hackathon**.
 ### Group: [PCD Classification Approach](https://devpost.com/software/title-l35s80?ref_content=user-portfolio&ref_feature=in_progress)
-### Mentor: [Emanuel Huber]()
 ### Team: [Lucas de Abreu Furtado](https://github.com/Jornay), [Luiz Henrique Aguiar](https://github.com/LuizHAC) e [Vinícius Frias A Leite](https://github.com/Vini-002).
