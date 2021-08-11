@@ -40,7 +40,7 @@ Several challenges were proposed for solving problems with natural disasters, am
 
 ## Scripts
 
-- show_images.py is our script made using Python to visualize and select point cloud data to segment. It also has a filter application to extract the main points of a selected area and correct possible errors in the solution.
+- show_images.py is our script made using Python to visualize and select point cloud data to segment. It also has a filter application to extract the main points of a selected area.
 - hackaton.ipynb is our notebook for identifying households from footprints data.
 
 ### This project was developed during the **IEEE GRSS Boston Hackathon**.
