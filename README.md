@@ -38,6 +38,11 @@ Several challenges were proposed for solving problems with natural disasters, am
 
 <br>
 
+## Scripts
+
+- show_images.py is our script made using Python to visualize and select point cloud data to segment. It also has a filter application to extract the main points of a selected area and correct possible errors in the solution.
+- hackaton.ipynb is our notebook for identifying households from footprints data.
+
 ### This project was developed during the **IEEE GRSS Boston Hackathon**.
 ### Group: [PCD Classification Approach](https://devpost.com/software/title-l35s80?ref_content=user-portfolio&ref_feature=in_progress)
 ### Team: [Lucas de Abreu Furtado](https://github.com/Jornay), [Luiz Henrique Aguiar](https://github.com/LuizHAC) e [Vinícius Frias A Leite](https://github.com/Vini-002).
