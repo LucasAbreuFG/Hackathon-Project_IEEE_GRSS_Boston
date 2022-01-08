@@ -1,4 +1,4 @@
-# Hackathon_PCD_Classification_Approach
+# IEEE GRSS Boston Hackathon Project
 
 
 
@@ -42,6 +42,13 @@ Several challenges were proposed for solving problems with natural disasters, am
 
 - show_images.py is our script made using Python to visualize and select point cloud data to segment. It also has a filter application to extract the main points of a selected area.
 - hackaton.ipynb is our notebook for identifying households from footprints data.
+
+# Competition placement
+
+With our project that was developed in 3 weeks, we got the first place in this great challenge!!
+
+<img src="https://ik.imagekit.io/xsilqkxxvya/1633097928674_rZoqFnazM9V.jpg?updatedAt=1641646953461">
+
 
 ### This project was developed during the **IEEE GRSS Boston Hackathon**.
 ### Group: [PCD Classification Approach](https://devpost.com/software/title-l35s80?ref_content=user-portfolio&ref_feature=in_progress)
